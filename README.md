@@ -15,3 +15,7 @@ For processing the predation risk:
   - **Depth_SIL**: data of *S. glanis* depth
   - **Depth_C_0**: data of 0+ whitefish depths
   - **Depth_SIL**: data of the other whitefish lifestages depths
+  - **TempMonth**: data of temperatures for computing metabolism and the final predation risk metric
+
+
+For any supplementary questions, contact us to chloe.vagnon@gmail.com
