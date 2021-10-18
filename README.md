@@ -12,9 +12,9 @@ For processing the size-based vulnerability:
 For processing the predation risk:  
   - **cv_Functions_Vul_Salmo**: functions to find the best parmeter combination for the LogNormal probability density function (this step can take a long time so it is advised to use the parameters already fitted for the article for a quick application), to compute the depth-matching and the basal metabolism 
   - **Param**: parameters computed from the functions Param_Depth_Matching in cv_Functions_Vul_Salmo.R
-  - **Depth_SIL**: data of *S. glanis* depth
+  - **Depth_SIL**: data of *S. glanis* depths
   - **Depth_C_0**: data of 0+ whitefish depths
-  - **Depth_SIL**: data of the other whitefish lifestages depths
+  - **Depth_C_Other**: data of depthfs of other whitefish life stages
   - **TempMonth**: data of temperatures for computing metabolism and the final predation risk metric
 
 
