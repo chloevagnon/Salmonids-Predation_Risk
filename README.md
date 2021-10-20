@@ -18,4 +18,4 @@ For processing the predation risk:
   - **TempMonth**: data of temperatures for computing metabolism and the final predation risk metric
 
 
-For any supplementary questions, contact us to chloe.vagnon@gmail.com
+For any supplementary questions, contact us: chloe.vagnon@gmail.com
